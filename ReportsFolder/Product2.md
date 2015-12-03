@@ -1,4 +1,4 @@
-###Name: Old Site 2
+###Name: Product 2
 
 Task | Status | Comments (only if yellow or red)
 ------------ | ------------- | -------------
